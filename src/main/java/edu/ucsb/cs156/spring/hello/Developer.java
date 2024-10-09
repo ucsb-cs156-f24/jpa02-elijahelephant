@@ -16,10 +16,6 @@ public class Developer {
      */
 
     public static String getName() {
-        // TODO: Change this to your name
-        // You may use just the name that is used on <https://bit.ly/cs156-f24-teams>
-        // i.e. your first name, or your first and initial of last name
-
         return "Elijah";
     }
 
@@ -41,12 +37,12 @@ public class Developer {
     public static Team getTeam() {
         // TODO: Change this to your team name
         Team team = new Team("f24-09");
-        team.addMember("Alice");
-        team.addMember("Bob");
-        team.addMember("Chris G.");
-        team.addMember("Danny");
-        team.addMember("Eve");
-        team.addMember("Frances");
+        team.addMember("Nathaniel");
+        team.addMember("Alec");
+        team.addMember("Neil");
+        team.addMember("Tom");
+        team.addMember("Hongtao");
+        team.addMember("Elijah");
         return team;
     }
 }
