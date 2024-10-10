@@ -1,10 +1,5 @@
 # jpa02-elijahelephant
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-f24/jpa02-cgaucho
-
 Repo: https://ucsb-cs156-f24/jpa02-elijahelephant
 
 
