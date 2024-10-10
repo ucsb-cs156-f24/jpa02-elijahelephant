@@ -1,6 +1,6 @@
 # jpa02-elijahelephant
 
-Repo: https://ucsb-cs156-f24/jpa02-elijahelephant
+Repo: https://github.com/ucsb-cs156-f24/jpa02-elijahelephant
 
 
 Deployed at: https://jpa02-elijahwilliams.dokku-09.cs.ucsb.edu
